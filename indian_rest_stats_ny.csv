@@ -41,3 +41,82 @@ Manhattan,Murray Hill,59fcd48c464d6567ed2f5e37,The Kati Roll Company,18.0,8.7,2.
 Manhattan,Chelsea,4b4aab62f964a520978c26e3,Dil-e Punjab Deli,106.0,8.8,43.0
 Manhattan,Tribeca,4bbb9dbded7776b0e1ad3e51,Tamarind TriBeCa,589.0,9.1,146.0
 Manhattan,West Village,5b5a2c9e66f3cd002ca0aab5,The Drunken Munkey,26.0,8.8,4.0
+Manhattan,West Village,591794df2be42556988e4a8e,Rahi,106.0,8.8,19.0
+Manhattan,Manhattan Valley,424de080f964a520ae201fe3,Manhattan Valley,42.0,7.9,30.0
+Manhattan,Manhattan Valley,4d24b812836f5481518645f7,Doaba Deli,41.0,7.5,13.0
+Manhattan,Manhattan Valley,538ba1f2498e279098e4210a,Awadh,51.0,8.0,13.0
+Manhattan,Manhattan Valley,49c5ad0af964a5201b571fe3,Roti Roll,114.0,7.9,58.0
+Manhattan,Manhattan Valley,4ad12c9df964a52040dd20e3,Aangan,35.0,7.4,14.0
+Manhattan,Morningside Heights,49c5ad0af964a5201b571fe3,Roti Roll,114.0,7.9,58.0
+Manhattan,Gramercy,4a70a75bf964a52016d81fe3,Bhatti Indian Grill,416.0,8.7,158.0
+Manhattan,Gramercy,57f7cbbe498edf8f07c7ba83,Sahib,59.0,8.8,13.0
+Manhattan,Gramercy,523b2b42498e1dfabcc8ab15,Pippali,303.0,8.7,76.0
+Queens,Astoria,4aa56c81f964a5204e4820e3,Seva Indian Cuisine,238.0,9.0,131.0
+Queens,Woodside,4afdcf29f964a520162b22e3,Rajbhog Sweets,37.0,8.4,24.0
+Queens,Woodside,4b998d3ff964a520fc8235e3,Maharaja Sweets & Snacks,52.0,8.1,24.0
+Queens,Woodside,4c7060e734443704ca0e245f,Kababish,30.0,7.7,17.0
+Queens,Woodside,3fd66200f964a52009f11ee3,Jackson Diner,141.0,7.9,77.0
+Queens,Woodside,49ebb18ff964a52016671fe3,Delhi Heights,34.0,7.9,22.0
+Queens,Woodside,5da4fbf091a08400078be19d,Angel Indian Restaurant,3.0,7.9,1.0
+Queens,Woodside,4b189424f964a52043d423e3,Dera,47.0,7.4,19.0
+Queens,Woodside,4e334b7bb0fb17f64f81a8b2,Premium Sweets & Restaurant,11.0,7.4,5.0
+Queens,Jackson Heights,527d9cbc498edf0db10bde6b,Samudra,48.0,8.5,16.0
+Queens,Jackson Heights,4afdcf29f964a520162b22e3,Rajbhog Sweets,37.0,8.4,24.0
+Queens,Jackson Heights,4b998d3ff964a520fc8235e3,Maharaja Sweets & Snacks,52.0,8.1,24.0
+Queens,Jackson Heights,5da4fbf091a08400078be19d,Angel Indian Restaurant,3.0,7.9,1.0
+Queens,Jackson Heights,3fd66200f964a52009f11ee3,Jackson Diner,141.0,7.9,77.0
+Queens,Jackson Heights,49ebb18ff964a52016671fe3,Delhi Heights,34.0,7.9,22.0
+Queens,Elmhurst,527d9cbc498edf0db10bde6b,Samudra,48.0,8.5,16.0
+Queens,Elmhurst,5da4fbf091a08400078be19d,Angel Indian Restaurant,3.0,7.9,1.0
+Queens,Kew Gardens,5782c9ce498edde587f5aa14,Tikka Indian Grill,10.0,7.8,2.0
+Queens,Kew Gardens,4bbe78bfba9776b070cefdc8,Mehak Mughlai Cuisine,8.0,7.7,10.0
+Queens,Richmond Hill,4b522029f964a520f26927e3,Sohna Punjab,8.0,7.7,2.0
+Queens,Richmond Hill,5782c9ce498edde587f5aa14,Tikka Indian Grill,10.0,7.8,2.0
+Queens,Richmond Hill,4f1b77d7e4b044fd359e6d21,India Cafe,6.0,7.1,3.0
+Queens,Richmond Hill,4adbaef0f964a520ff2921e3,Punjabi Kabab House,7.0,6.0,7.0
+Queens,Richmond Hill,4babc24ef964a5200ac73ae3,Royal India Palace,7.0,5.9,3.0
+Queens,Richmond Hill,4bb2bc48a32876b02e0b01fe,Tandoori Hut,6.0,5.9,15.0
+Queens,Long Island City,5b931ea69d7468002c3b1382,Adda,113.0,9.0,34.0
+Queens,Long Island City,50a287a7e4b0033f830f06db,Raj's Indian Kitchen,22.0,7.3,9.0
+Queens,Long Island City,4b1b341bf964a5208af923e3,Five Star Banquet,30.0,7.1,31.0
+Queens,Sunnyside,5b931ea69d7468002c3b1382,Adda,113.0,9.0,34.0
+Queens,Ridgewood,50e1c9708aca7ff2b3e50353,Nepalese Indian Restaurant,55.0,8.3,18.0
+Queens,Rego Park,5625af69498ebbc62b61a382,Aaheli Restaurant,12.0,7.8,6.0
+Queens,Ozone Park,0,0,0.0,0.0,0.0
+Queens,Bayside,4f1f4996e4b01ff351a7a50c,Ayna Agra Indian Restaurant,39.0,8.2,12.0
+Queens,Bayside,539a4ff0498e79c6745baba9,Masala Box,9.0,8.0,2.0
+Queens,Bayside,539e27b0498e2eba582085ee,masalabox,7.0,6.5,2.0
+Queens,Glen Oaks,4b787c49f964a5209cd12ee3,Santoor Indian Restaurant,37.0,7.6,18.0
+Queens,Glen Oaks,4b9030abf964a520397b33e3,Taste of Cochin,9.0,6.9,4.0
+Queens,Glen Oaks,4df0f39dd4c04d0392c853ea,Sagar Chinese,7.0,6.0,6.0
+Queens,Glen Oaks,4c0e256ab1b676b06589e186,Sohna Punjab,3.0,5.9,3.0
+Queens,Bellerose,0,0,0.0,0.0,0.0
+Queens,Bellerose,0,0,0.0,0.0,0.0
+Queens,Kew Gardens Hills,0,0,0.0,0.0,0.0
+Queens,Briarwood,4bad49a0f964a52041423be3,Annam Brahma,15.0,8.0,3.0
+Queens,Briarwood,4be334312fc7d13a7a81083a,Taj Mahal Restaurant & Party Hall,24.0,7.4,5.0
+Queens,Briarwood,4cc08b0900d83704ed474b5c,Sybil's Bakery,8.0,7.2,3.0
+Queens,Jamaica Center,4c434b2bd691c9b6ef8f8f0a,Sagar Restaurant,10.0,7.5,6.0
+Queens,Jamaica Center,4bad49a0f964a52041423be3,Annam Brahma,15.0,8.0,3.0
+Queens,Jamaica Center,4cc08b0900d83704ed474b5c,Sybil's Bakery,8.0,7.2,3.0
+Queens,Steinway,562035d9498e2abb4137c2c7,Yaar Indian Restaurant,31.0,8.6,7.0
+Queens,Floral Park,527ffc0811d2d329d5e49abd,Jackson Diner,9.0,8.0,3.0
+Queens,Floral Park,4b647b56f964a520c4b62ae3,Usha Foods & Usha Sweets,33.0,7.9,10.0
+Queens,Floral Park,4e4e3e22bd4101d0d7a5c2d1,Kerala Kitchen,5.0,8.0,6.0
+Queens,Floral Park,4b787c49f964a5209cd12ee3,Santoor Indian Restaurant,37.0,7.6,18.0
+Queens,Floral Park,4c0c01e0bbc676b00d6b4cd5,Mumbai Xpress,16.0,6.6,18.0
+Queens,Floral Park,4c76ff35a5676dcb72671721,Flavor Of India,6.0,6.1,6.0
+Queens,Floral Park,4df0f39dd4c04d0392c853ea,Sagar Chinese,7.0,6.0,6.0
+Queens,Floral Park,0,0,0.0,0.0,0.0
+Queens,Floral Park,0,0,0.0,0.0,0.0
+Queens,Floral Park,0,0,0.0,0.0,0.0
+Queens,Floral Park,0,0,0.0,0.0,0.0
+Queens,Holliswood,4f580c1be4b0bdfd0e7e8102,Rajdhani Indian Restaurant,13.0,8.3,6.0
+Queens,Jamaica Estates,4c434b2bd691c9b6ef8f8f0a,Sagar Restaurant,10.0,7.5,6.0
+Queens,Jamaica Estates,0,0,0.0,0.0,0.0
+Queens,Ravenswood,5623f6f9498e5a44a08bfae8,Boishakhi Restaurant,17.0,7.8,7.0
+Queens,Bellaire,0,0,0.0,0.0,0.0
+Staten Island,New Brighton,4b9be038f964a520393036e3,Dosa Garden,18.0,7.8,17.0
+Staten Island,New Dorp,4be74a502468c928505a0243,Taste Of India II,29.0,8.1,14.0
+Staten Island,Tompkinsville,4b9be038f964a520393036e3,Dosa Garden,18.0,7.8,17.0
+Staten Island,Sunnyside,0,0,0.0,0.0,0.0

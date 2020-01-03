@@ -1,0 +1,43 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Bronx,Woodlawn,4c0448d9310fc9b6bf1dc761,Curry Spot,5.0,7.6,10.0
+Bronx,Parkchester,4c194631838020a13e78e561,Melanies Roti Bar And Grill,3.0,5.8,2.0
+Bronx,Spuyten Duyvil,4c04544df423a593ac83d116,Cumin Indian Cuisine,13.0,6.1,9.0
+Bronx,Concourse,551b7f75498e86c00a0ed2e1,Hungry Bird,8.0,6.9,3.0
+Bronx,Unionport,4c194631838020a13e78e561,Melanies Roti Bar And Grill,3.0,5.8,2.0
+Bronx,Unionport,0,0,0.0,0.0,0.0
+Brooklyn,Bay Ridge,4b5a4dc8f964a520a2bb28e3,Taj Mahal,38.0,8.4,26.0
+Brooklyn,Brighton Beach,4af0d31bf964a5207ddf21e3,Pak Nasheman,9.0,7.5,4.0
+Brooklyn,Flatbush,52213c4211d295d4c57a607c,Ashoka Grill,8.0,7.0,14.0
+Brooklyn,Flatbush,564d283d498e6e851df79d87,Great Indian Curry,3.0,6.8,2.0
+Brooklyn,East Flatbush,512a9ea9e4b004fb8eeb84e5,Silver Krust,12.0,8.1,3.0
+Brooklyn,Kensington,4db0f4371e729fcc56497f20,Mashallah,19.0,7.5,7.0
+Brooklyn,Kensington,4b718914f964a520c04b2de3,Madina Restaurant and Sweets,17.0,6.5,12.0
+Brooklyn,Gowanus,52f18573498ec2c34e830ffd,Kanan's Indian Restaurant,23.0,7.7,8.0
+Brooklyn,Fort Greene,57596dad498e732300496b23,Dosa Royale,75.0,8.7,22.0
+Brooklyn,Clinton Hill,57596dad498e732300496b23,Dosa Royale,75.0,8.7,22.0
+Brooklyn,Clinton Hill,568d3902498e619efcbc3f58,Spice & Grill,19.0,7.6,6.0
+Brooklyn,Prospect Lefferts Gardens,4bb93b70cf2fc9b6fe64a002,Gandhi Fine Indian Cuisine,81.0,8.6,47.0
+Brooklyn,Prospect Lefferts Gardens,4afdf78bf964a520862c22e3,King of Tandoor,25.0,7.4,23.0
+Brooklyn,Ocean Hill,5539753f498edbace4746b67,Tandoori Masala,12.0,7.7,2.0
+Brooklyn,Ocean Hill,4f6cae2ee4b0d4a5afcef5c0,Delhi Heights,22.0,7.9,8.0
+Brooklyn,Prospect Park South,519ff6c8498e1300ddcbd45c,Anarkali Indian Cuisine,14.0,7.8,8.0
+Brooklyn,Prospect Park South,4db0f4371e729fcc56497f20,Mashallah,19.0,7.5,7.0
+Brooklyn,North Side,5631511b498e3d6d7e0a4df0,Tikka Indian Grill,95.0,8.5,29.0
+Brooklyn,South Side,5631511b498e3d6d7e0a4df0,Tikka Indian Grill,95.0,8.5,29.0
+Manhattan,Washington Heights,4ae7876ef964a5201eac21e3,Kismat Indian Restaurant,45.0,7.7,25.0
+Manhattan,Hamilton Heights,54c2bd96498eaf5142e3fe92,Clove Indian Restaurant & Bar,30.0,7.4,15.0
+Manhattan,Hamilton Heights,5914ff32b23dfa207eca38de,Mumbai Masala,14.0,7.3,7.0
+Manhattan,Manhattanville,529d382a11d2dd5ef107e641,Chapati House - NYC,73.0,7.8,18.0
+Manhattan,Manhattanville,54c2bd96498eaf5142e3fe92,Clove Indian Restaurant & Bar,30.0,7.4,15.0
+Manhattan,Central Harlem,56d87f3d498ee215abee5724,Delhi Masala,13.0,8.7,3.0
+Manhattan,Central Harlem,54c2bd96498eaf5142e3fe92,Clove Indian Restaurant & Bar,30.0,7.4,15.0
+Manhattan,East Harlem,519fe6f5498e30595d370c44,Bawarchi,9.0,7.4,4.0
+Manhattan,Yorkville,5272ca4511d22488f6895caf,Drunken Munkey,208.0,8.6,61.0
+Manhattan,Roosevelt Island,4fe4fb50c2eee335e4fea69d,Moti Mahal Delux,185.0,8.4,82.0
+Manhattan,Upper West Side,42489a80f964a5208b201fe3,Swagat,105.0,8.4,38.0
+Manhattan,Upper West Side,4b0dec08f964a520ae5223e3,Alachi Masala,18.0,7.7,17.0
+Manhattan,Midtown,49d91c12f964a520015e1fe3,The Kati Roll Company,837.0,8.8,258.0
+Manhattan,Murray Hill,59fcd48c464d6567ed2f5e37,The Kati Roll Company,18.0,8.7,2.0
+Manhattan,Chelsea,4b4aab62f964a520978c26e3,Dil-e Punjab Deli,106.0,8.8,43.0
+Manhattan,Tribeca,4bbb9dbded7776b0e1ad3e51,Tamarind TriBeCa,589.0,9.1,146.0
+Manhattan,West Village,5b5a2c9e66f3cd002ca0aab5,The Drunken Munkey,26.0,8.8,4.0
